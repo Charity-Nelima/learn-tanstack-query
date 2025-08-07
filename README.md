@@ -41,6 +41,30 @@ TanStack Query is a library that makes fetching data easy. It handles:
 - **Caching** (don't re-fetch the same data)
 - **Background updates** (refresh data when needed)
 
+## Project Structure
+
+After completing the setup, your project will look like this:
+
+```
+my-tanstack-app/
+├── public/
+│   ├── index.html
+│   └── favicon.ico
+├── src/
+│   ├── App.js              # Main component with TanStack Query implementation
+│   ├── index.js            # React app entry point
+│   └── App.css             # Styles (optional)
+├── package.json            # Dependencies and scripts
+├── package-lock.json       # Locked dependency versions
+└── README.md              # Project documentation
+```
+
+### Key Files You'll Modify
+
+- **`src/App.js`** - Contains all TanStack Query logic and components
+- **`package.json`** - Updated with TanStack Query dependency
+- **`README.md`** - This documentation
+
 ## Requirements
 
 Before starting, you need:
@@ -278,4 +302,3 @@ Once you understand the basics, explore:
 ### Blog Posts
 - [Practical React Query](https://tkdodo.eu/blog/practical-react-query) - Real-world patterns
 - [Common Mistakes](https://tkdodo.eu/blog/react-query-common-mistakes) - What to avoid
-
