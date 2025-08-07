@@ -243,11 +243,10 @@ Once you understand the basics, explore:
 ### 🤖 Key AI Prompts That Guided This Project
 
 **Problem-Solving and Learning Context Prompt:**
-Understanding the framework better
+[Understanding the framework better](https://ai.moringaschool.com/ai-software/ai-use-cases/usecases-comprehend/#_prompt_1_understand_how_a_specific_feature_works) 
 
 **Documentation Prompt:**
-Project README documentation.
-
+[Project README documentation.](https://ai.moringaschool.com/ai-software/ai-use-cases/usecases-documentation/#_prompt_1_project_readme_generation) 
 ### 💭 Learning Reflections
 
 **What AI Helped With:**
