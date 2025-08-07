@@ -238,20 +238,6 @@ Once you understand the basics, explore:
 - **Dependent Queries** - Fetch data based on other data
 - **Infinite Queries** - Load more data (pagination)
 
-## Helpful Resources
-
-### Official Documentation
-- [TanStack Query Docs](https://tanstack.com/query/latest) - Complete guide
-- [API Reference](https://tanstack.com/query/latest/docs/react/reference) - All options explained
-
-### Video Tutorials
-- [React Query in 100 Seconds](https://www.youtube.com/watch?v=novnyCaa7To) - Quick overview
-- [Complete React Query Tutorial](https://www.youtube.com/watch?v=seU46c6Jz7E) - Detailed walkthrough
-
-### Blog Posts
-- [Practical React Query](https://tkdodo.eu/blog/practical-react-query) - Real-world patterns
-- [Common Mistakes](https://tkdodo.eu/blog/react-query-common-mistakes) - What to avoid
-
 ## AI Prompts Used & Learning Reflections
 
 ### 🤖 Key AI Prompts That Guided This Project
@@ -278,3 +264,19 @@ Project README documentation.
 - AI provided multiple implementation approaches, allowing me to choose the most beginner-friendly
 
 **Key Learning Insight:** AI excels at breaking down complex topics into digestible chunks and anticipating user questions, making it an excellent learning companion for new technologies.
+
+
+## Helpful Resources
+
+### Official Documentation
+- [TanStack Query Docs](https://tanstack.com/query/latest) - Complete guide
+- [API Reference](https://tanstack.com/query/latest/docs/react/reference) - All options explained
+
+### Video Tutorials
+- [React Query in 100 Seconds](https://www.youtube.com/watch?v=novnyCaa7To) - Quick overview
+- [Complete React Query Tutorial](https://www.youtube.com/watch?v=seU46c6Jz7E) - Detailed walkthrough
+
+### Blog Posts
+- [Practical React Query](https://tkdodo.eu/blog/practical-react-query) - Real-world patterns
+- [Common Mistakes](https://tkdodo.eu/blog/react-query-common-mistakes) - What to avoid
+
